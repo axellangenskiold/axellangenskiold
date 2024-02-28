@@ -17,7 +17,9 @@
 
 ###
 
-<p align="left">- Currently studying Computer Science and Engineering at LTH in Lund.</p>
+<p align="left">🏫 Currently studying Computer Science and Engineering at LTH in Lund.</p>
+<p align="left">📕 I'm currently really excited to program in React aswell as Swift and SwiftUI </p>
+<p align="left">🏌️‍♂In my spare time I enjoy playing golf, skiing and icehockey.</p>
 
 ###
 
