@@ -17,8 +17,8 @@
 
 ###
 
-<p align="left">🏫 Currently studying Computer Science and Engineering at LTH in Lund.</p>
-<p align="left">📕 I'm currently really excited to program in React aswell as Swift and SwiftUI </p>
+<p align="left">🏫 Studying Computer Science and Engineering at LTH.</p>
+<p align="left">📕 I'm currently really excited to program in Swift and SwiftUI </p>
 <p align="left">🏌️‍♂In my spare time I enjoy playing golf, skiing and icehockey.</p>
 
 ###
@@ -50,8 +50,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="matlab logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="docker logo"  />
@@ -61,6 +59,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="firebase logo"  />
 </div>
 
 ###
