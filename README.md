@@ -18,7 +18,7 @@
 ###
 
 <p align="left">🏫 Studying Computer Science and Engineering at LTH.</p>
-<p align="left">📕 I'm currently really excited to program in Swift and SwiftUI </p>
+<p align="left">📕 I'm currently really excited about programming iOS applications in Swift and SwiftUI </p>
 <p align="left">🏌️‍♂In my spare time I enjoy playing golf, skiing and icehockey.</p>
 
 ###
