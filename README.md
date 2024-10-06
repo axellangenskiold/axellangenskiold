@@ -77,6 +77,7 @@
 ###
 
 <div align="center">
+  <h4 alig="center"> ➡️ Profile Views </h4> 
   <img src="https://profile-counter.glitch.me/axellangenskiold/count.svg?"  />
 </div>
 
