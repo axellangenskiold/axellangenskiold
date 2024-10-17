@@ -1,7 +1,8 @@
 ###
 
 <div align="center">
-  <h3 align="center"> 📩 Reach out to me through LinkedIn, e-mail or Instagram!</h3>
+  <h3 align="center"> 📩 Reach out to me through LinkedIn, e-mail or Instagram, </h3>
+  <h3 align="center"> ☕️ I would love to grab a coffe! </h3>
   <a href="https://www.linkedin.com/in/axel-langenskiöld-33185a223" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
