@@ -8,6 +8,9 @@
   <a href="mailto:axel@langenskiold.se" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="google-gmail logo" />
   </a>
+  <a href="https://www.instagram.com/axellangenskiold/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=insagram&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="google-gmail logo" />
+  </a>
 </div>
 
 ###
