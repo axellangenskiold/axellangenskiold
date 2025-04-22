@@ -65,7 +65,7 @@
   <img width="12"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
   <img width="12"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/visualstudio-original.svg" height="40" alt="visual studio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/vs-original.svg" height="40" alt="vs logo"  />
 
 </div>
 
