@@ -52,13 +52,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" alt="visual studio logo"  />
 </div>
 
-<h3 align="left">🔥   My Stats :</h3>
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=axellangenskiold&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-<div align="left">
-  <h4>Profile Views</h4> 
-  <img src="https://profile-counter.glitch.me/axellangenskiold/count.svg?"  />
+<div align="center">
+  <h3 align="center">🔥   My Stats :</h3>
+  
+  <div align="center">
+    <img src="https://streak-stats.demolab.com?user=axellangenskiold&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  </div>
+  
+  <div align="center">
+    <h4>Profile Views</h4> 
+    <img src="https://profile-counter.glitch.me/axellangenskiold/count.svg?"  />
+  </div>
 </div>
