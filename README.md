@@ -1,12 +1,14 @@
-<h3 align="left">📩 Feel free to reach out through LinkedIn or e-mail,<br> I would love to grab a coffe sometime!☕️</h3>
-<a href="https://www.linkedin.com/in/axel-langenskiöld-33185a223" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-</a>
-<a href="mailto:axel@langenskiold.se" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-</a>
+<div align="center">
+  <h3 align="center">📩 Feel free to reach out through LinkedIn or e-mail,<br> I would love to grab a coffe sometime!☕️</h3>
+  <a href="https://www.linkedin.com/in/axel-langenskiöld-33185a223" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="mailto:axel@langenskiold.se" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+</div>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 <p align="left">🏫 Studying Computer Science and Engineering at LTH.</p>
 <p align="left">📕 I'm currently really excited about programming iOS applications in Swift and SwiftUI</p>
