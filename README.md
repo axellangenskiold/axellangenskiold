@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" height="40" alt="clojure logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-original.svg" height="40" alt="objectivec" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-original.svg" height="40" alt="objectivec logo" />
 </p>
 
 <h3 align="left">Tools 🛠️</h3>
