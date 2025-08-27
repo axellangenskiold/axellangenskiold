@@ -47,7 +47,6 @@
 <div align="center">
   <h3 align="center">🔥   My Stats :</h3>
   <div align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=axellangenskiol)](https://git.io/streak-stats)
     <img src="https://streak-stats.demolab.com?user=axellangenskiold&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   </div>
   
