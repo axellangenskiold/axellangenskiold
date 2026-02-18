@@ -11,8 +11,8 @@
 <h3 align="center">👩‍💻  About Me</h3>
 
 <p align="left">🏫 Studying Computer Science and Engineering at LTH.</p>
-<p align="left">📕 I'm currently really excited about programming iOS applications in Swift and SwiftUI</p>
-<p align="left">🏌️‍♂ In my spare time I enjoy playing golf, skiing and icehockey.</p>
+<p align="left">📕 I'm currently really excited about programming iOS applications in Swift!</p>
+<p align="left">🏌️‍♂ In my spare time I enjoy playing golf, alpine skiing and fishing</p>
 
 <h3 align="left">Languages 🔨</h3>
 
