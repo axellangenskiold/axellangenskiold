@@ -46,10 +46,7 @@
 
 <div align="center">
   <h3 align="center">🔥   My Stats :</h3>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=axellangenskiold&theme=dark&border_radius=15&short_numbers=true" alt="GitHub Streak" /></a>
-  
-  <div align="center">
-    <h4>Profile Views</h4> 
-    <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
-  </div>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=axellangenskiold&theme=dark&border_radius=15&short_numbers=true" alt="GitHub Streak" />
+  </a>
 </div>
