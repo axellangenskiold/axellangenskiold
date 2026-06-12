@@ -1,5 +1,5 @@
-<div align="center">
-  <h3 align="center"> reach out </h3>
+<div align="left">
+  <h3 align="left"> reach out </h3>
   <a href="https://www.linkedin.com/in/axel-langenskiöld-33185a223" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<h3 align="center">About Me</h3>
+<h3 align="left">About Me</h3>
 
 <p align="left"> CS @ LTH </p>
 <p align="left"> Linux Intern @ Proton Privacy </p>
